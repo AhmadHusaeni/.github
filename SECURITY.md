@@ -1,3 +1,4 @@
+![download](https://github.com/github/.github/assets/120613389/aaae8d82-dec6-4387-97e3-1edff14646ac)
 Thanks for helping make GitHub safe for everyone.
 
 ## Security
